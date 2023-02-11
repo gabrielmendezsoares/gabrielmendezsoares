@@ -1,9 +1,9 @@
-# Welcome to my profile! 🧑‍💻
+# Welcome to my profile! 👨‍💻
+## About 📌
 
-- **`NAME` : Gabriel Mendez Soares**
-- **`AGE` : 18**
+- *Welcome to my GitHub profile, i'm a full stack software / web developer student from [Trybe](https://www.betrybe.com/), feel free to look at my repositories, get in contact with me whenever you want i'm available most of the time.*
 
-  *Welcome to my GitHub profile, i'm a software / web developer student from [Trybe](https://www.betrybe.com/), feel free to look at my repositories, get in contact with me whenever you want i'm available most of the time.*
+## Status 📊
 
 <br>
 
