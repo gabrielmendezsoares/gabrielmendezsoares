@@ -1,4 +1,4 @@
-# Welcome to my profile!
+# Welcome to my profile! 🧑‍💻
 
 - **`NAME` : Gabriel Mendez Soares**
 - **`AGE` : 18**
