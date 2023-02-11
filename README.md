@@ -1,5 +1,9 @@
-# Bem-vindo!
+# Welcome to my profile!
 
+- **`NAME` : Gabriel Mendez Soares**
+- **`AGE` : 18**
+
+  *Welcome to my GitHub profile, i'm a software / web developer student from [Trybe](https://www.betrybe.com/), feel free to look at my repositories, get in contact with me whenever you want i'm available most of the time.*
 
 <br>
 
