@@ -20,6 +20,7 @@
 <!-- TECNOLOGIAS -->
 <div align="center">
 
+![HTML5](https://img.shields.io/badge/-HTML5-black?style=flat-square&logo=html5)  
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![Shell](https://img.shields.io/badge/-Shell-black?style=flat-square&logo=shell)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
