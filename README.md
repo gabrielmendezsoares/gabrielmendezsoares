@@ -1,4 +1,4 @@
-# Bem-vindo ao meu perfil 👨‍💻
+# Meu perfil 👨‍💻
 ## About 📌
 
 - *Cresci em constante contato com a internet e para mim era uma curiosidade imensa saber como ela funcionava por debaixo dos panos e como poderia ser algo tão importante e de grande utilidade no dia-a-dia de uma pessoa. Com o tempo resolvi-me aprofundar e aprender de verdade o que é ser um desenvolvedor, e acabei descobrindo minha nova paixão que é desenvolver programas e é meu maior prazer poder fazer isso. Desde então busco constante conhecimento e aprimoramento em relação a programação.*
