@@ -27,4 +27,4 @@
   ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 </div>
 
-![snake gif](https://github.com/doug-sales1819/doug-sales1819/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/gabrielmendezsoares/blob/output/github-contribution-grid-snake.svg)
