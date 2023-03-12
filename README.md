@@ -1,4 +1,4 @@
-# 🏄 Gabriel Soares
+# 🏄 Gabriel Mendez Soares
 
 
 ## 📌 Sobre mim
