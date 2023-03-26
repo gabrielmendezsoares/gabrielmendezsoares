@@ -7,8 +7,8 @@ Hello, my name is Gabriel and I am a developer passionate about creating solutio
 ## 📊 GitHub Status
 
 <div align="left">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gabrielmendezsoares&show_icons=true&theme=onedark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielmendezsoares&layout=compact&langs_count=10&theme=onedark"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gabrielmendezsoares&show_icons=true&theme=onedark&include_all_commits=true&count_private=true">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielmendezsoares&layout=compact&langs_count=10&theme=onedark">
 </div>
 
 ## 🧰 Languages and Tools
