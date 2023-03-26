@@ -11,7 +11,7 @@ Hello, my name is Gabriel and I am a developer passionate about creating solutio
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielmendezsoares&layout=compact&langs_count=10&theme=onedark"/>
 </div>
 
-## 🧰 Languages and Tools
+## 🧰 Languages and tools
 
 <div align="left">
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux">
