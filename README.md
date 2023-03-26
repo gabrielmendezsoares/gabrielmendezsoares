@@ -1,4 +1,5 @@
 # 🏄 Gabriel Soares
+## 🌍 [EN-US]()
 ## 📌 Sobre mim
 
 Olá, meu nome é Gabriel e sou um desenvolvedor apaixonado por criar soluções que facilitem a vida das pessoas. Desde a minha infância, sempre estive em contato constante com a internet e sentia uma grande curiosidade sobre como ela funcionava nos bastidores. Com o tempo, decidi aprofundar meu conhecimento em desenvolvimento de aplicações e finalmente descobri minha paixão por criar novas soluções. Desde então, tenho me dedicado constantemente a expandir meus conhecimentos e aprimorar minhas habilidades de programação, buscando sempre aprender novas tecnologias e técnicas para aperfeiçoar minhas criações.
