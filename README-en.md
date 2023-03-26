@@ -4,7 +4,7 @@
 
 Hello, my name is Gabriel and I am a developer passionate about creating solutions that make people's lives easier. Since my childhood, I have always been in constant contact with the internet and felt a great curiosity about how it worked behind the scenes. Over time, I decided to deepen my knowledge in application development and finally discovered my passion for creating new solutions. Since then, I have been constantly dedicated to expanding my knowledge and improving my programming skills, always seeking to learn new technologies and techniques to perfect my creations.
 
-## 📊 GitHub Status
+## 📊 GitHub status
 
 <div align="left">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gabrielmendezsoares&show_icons=true&theme=onedark&include_all_commits=true&count_private=true"/>
