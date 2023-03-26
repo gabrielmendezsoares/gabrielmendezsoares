@@ -10,7 +10,7 @@ Olá, meu nome é Gabriel e sou um desenvolvedor apaixonado por criar soluções
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielmendezsoares&layout=compact&langs_count=10&theme=onedark"/>
 </div>
 
-## 🧰 Linguagens e Ferramentas
+## 🧰 Linguagens e ferramentas
 
 <div align="left">
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux">
