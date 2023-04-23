@@ -1,8 +1,8 @@
 # 🌱 Gabriel Soares
-## 🌍 [ENGLISH](https://github.com/gabrielmendezsoares/gabrielmendezsoares/blob/main/README-en.md)
-## 💭 Sobre mim
 
-Olá, meu nome é Gabriel e sou um desenvolvedor apaixonado por criar soluções que facilitem a vida das pessoas. Desde a minha infância, sempre estive em contato constante com a internet e sentia uma grande curiosidade sobre como ela funcionava nos bastidores. Com o tempo, decidi aprofundar meu conhecimento em desenvolvimento de aplicações e finalmente descobri minha paixão por criar novas soluções. Desde então, tenho me dedicado constantemente a expandir meus conhecimentos e aprimorar minhas habilidades de programação, buscando sempre aprender novas tecnologias e técnicas para aperfeiçoar minhas criações.
+## 💭 About me
+
+Hello, my name is Gabriel and I am a developer passionate about creating solutions that make people's lives easier. Since my childhood, I have always been in constant contact with the internet and felt a great curiosity about how it worked behind the scenes. Over time, I decided to deepen my knowledge in application development and finally discovered my passion for creating new solutions. Since then, I have been constantly dedicated to expanding my knowledge and improving my programming skills, always seeking to learn new technologies and techniques to perfect my creations.
 
 ## 📊 GitHub Status
 
@@ -11,7 +11,7 @@ Olá, meu nome é Gabriel e sou um desenvolvedor apaixonado por criar soluções
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielmendezsoares&layout=compact&langs_count=10&theme=onedark">
 </div>
 
-## 🧰 Linguagens e Ferramentas
+## 🧰 Languages and Tools
 
 <div align="left">
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux">
